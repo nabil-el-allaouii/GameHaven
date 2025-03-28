@@ -79,7 +79,7 @@
                     </div>
 
                     <button type="submit"
-                        class="!rounded-button w-full flex justify-center py-3 px-4 border border-transparent font-medium text-white bg-gradient-to-r from-custom to-blue-500 hover:from-custom/90 hover:to-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-custom">
+                        class="!rounded-button w-full flex justify-center py-3 px-4 border border-transparent font-medium text-white bg-custom hover:bg-custom/90 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-custom">
                         Sign in
                     </button>
 

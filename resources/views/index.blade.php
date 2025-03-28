@@ -56,9 +56,9 @@
                         </div>
                     </div>
                 </div>
-                <button
+                <a href="{{route('login')}}"><button
                     class="!rounded-button bg-custom hover:bg-custom/90 px-4 py-2 text-sm font-medium text-white">Sign
-                    In</button>
+                    In</button></a>
             </div>
         </nav>
     </header>
